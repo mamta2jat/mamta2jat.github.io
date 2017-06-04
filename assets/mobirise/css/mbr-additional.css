@@ -2,11 +2,18 @@
   font-size: 16px;
 }
 #ext_menu-2.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #f97352;
 }
 #ext_menu-2 .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #f97352;
 }
 #ext_menu-2 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #cccccc;
+}
+#slider-3 H1 {
+  color: #553982;
+}
+#features1-4 .mbr-section__col .mbr-header__text {
+  text-align: center;
+  color: #b8312f;
 }
