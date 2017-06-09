@@ -1,19 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
 #ext_menu-2 .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-2.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #000000;
 }
 #ext_menu-2 .mbr-navbar__section {
-  background: #f97352;
+  background: #000000;
 }
 #ext_menu-2 .mbr-navbar__hamburger {
   color: #cccccc;
 }
-#slider-3 H1 {
-  color: #553982;
+#header4-c H1 {
+  color: #0a1c70;
 }
-#features1-4 .mbr-section__col .mbr-header__text {
+#header4-c P {
+  color: #000000;
+}
+#slider2-j H1 {
+  color: #7ac673;
+}
+#content5-k .mbr-header .mbr-header__text {
   text-align: center;
-  color: #b8312f;
+  color: #21452b;
+  font-family: 'Oswald', sans-serif;
+}
+#content5-k .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-k .mbr-article {
+  color: #fff;
+}
+#form1-l .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts2-o P {
+  text-align: left;
 }
