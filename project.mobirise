@@ -301,9 +301,9 @@
                 "image": "@PROJECT_PATH@/assets/images/cows-feeding-2000x1433.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "Slide 1",
+                "title": "",
                 "showText": true,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": ".",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -312,9 +312,9 @@
                 "image": "@PROJECT_PATH@/assets/images/depositphotos-1558434-stock-illustration-milk-2000x2000.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Slide 2",
+                "title": "",
                 "showText": true,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": ".",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
