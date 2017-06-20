@@ -110,7 +110,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false
+            "showArrow": true
           },
           "title": "MAMTA JAT FARM<br>",
           "text": "It is the theory of agriculture expounded in such manner that the farmers would benefit by its application. This treatise includes observations on all aspects of agriculture such as meteorological observations relating to agriculture, management of agriculture, management of cattle, agricultural tools, seed collection and preservation, ploughing and all the agricultural processes involved right from preparing fields  to harvesting and storage of crops.",
@@ -491,7 +491,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>2Gandhi Nagar&nbsp;<br>Barmer, AA 99999<br><br>\n<strong>CONTACTS</strong><br>\nEmail: mamta.14jtcs037@jietjodhpur.ac.in<br>\nPhone: +917073747318<br><br>",
-          "text2": "<ul class=\"mbr-contacts__list\"></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
         }
       ]
     }
